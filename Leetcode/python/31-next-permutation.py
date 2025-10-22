@@ -1,0 +1,1 @@
+# Solution for 31. Next Permutation
